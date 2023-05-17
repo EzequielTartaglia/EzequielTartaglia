@@ -17,11 +17,11 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD?logo=jquery&logoColor=white) 
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=Next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a?logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next.js-%2320232a?logo=Next.js&logoColor=white)
 
 ## Back-End
 
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/CSharp-%2300f?logo=CSharp&logoColor=white) ![Php](https://img.shields.io/badge/Php-%23563D7C?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/CSharp-%2300f?logo=CSharp&logoColor=white) ![Php](https://img.shields.io/badge/Php-%23563D7C?logo=php&logoColor=white)
 
 ## DataBase
 
