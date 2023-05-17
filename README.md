@@ -30,7 +30,7 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 # 📊GitHub Stats :
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzequielTartaglia&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/EzequielTartaglia?tab=repositories)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzequielTartaglia&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Total%20PRs&custom_value=150)](https://github.com/EzequielTartaglia?tab=repositories)
 
 ![](https://github-readme-stats.vercel.app/api?username=EzequielTartaglia&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EzequielTartaglia&theme=radical&hide_border=false)<br/>
