@@ -25,11 +25,11 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ## DataBase
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f?logo=mysql&logoColor=white&style=flat) ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-grey?logo=Microsoft%20SQL%20Server&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/mysql-%2300f?logo=mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-grey?logo=Microsoft%20SQL%20Server&logoColor=white)
 
 ## Testing
 
-![Playwright](https://img.shields.io/badge/Playwright-%20-%231e1e1e?logo=playwright&logoColor=white&style=flat)
+![Playwright](https://img.shields.io/badge/Playwright-%20-%231e1e1e?logo=playwright&logoColor=white)
 
 
 ## Data
