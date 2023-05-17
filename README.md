@@ -29,8 +29,7 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ## Testing
 
-![Playwright](https://img.shields.io/badge/playwright?logo=playwright&logoColor=white)
-
+![Playwright](https://img.shields.io/badge/Playwright-%20-%231e1e1e?logo=playwright&logoColor=white)
 
 ## Data
 
