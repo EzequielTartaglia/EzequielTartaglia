@@ -7,6 +7,7 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequieltartaglia/)
+[![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@ez-tech)
 
 # 💻Tech Stack
 
