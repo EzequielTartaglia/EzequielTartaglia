@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330?logo=Javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/Typescript-%23323330?logo=Typescript&logoColor=#007ACC) ![jQuery](https://img.shields.io/badge/JQuery-%230769AD?logo=JQuery&logoColor=white) 
 
-![React](https://img.shields.io/badge/react-%2320232a?logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next.js-%2320232a?logo=Next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?logo=React&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next.js-%2320232a?logo=Next.js&logoColor=white)
 
 ## Back-End
 
