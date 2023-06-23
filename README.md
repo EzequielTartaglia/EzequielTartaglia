@@ -13,7 +13,7 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ## Front-End
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C?logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C?logo=bootstrap&logoColor=white) ![Less](https://img.shields.io/badge/less-%23563D7C?logo=less&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
  
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23323330?logo=typescript&logoColor=#007ACC) ![jQuery](https://img.shields.io/badge/jquery-%230769AD?logo=jquery&logoColor=white) 
