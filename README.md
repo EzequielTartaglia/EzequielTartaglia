@@ -22,19 +22,19 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ## Back-End
 
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/CSharp-%2300f?logo=CSharp&logoColor=white) ![Php](https://img.shields.io/badge/Php-%23563D7C?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=Node.js&logoColor=white) ![C#](https://img.shields.io/badge/CSharp-%2300f?logo=CSharp&logoColor=white) ![Php](https://img.shields.io/badge/Php-%23563D7C?logo=php&logoColor=white)
 
 ## DataBase
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f?logo=mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-grey?logo=Microsoft%20SQL%20Server&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-%2300f?logo=Mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-grey?logo=Microsoft%20SQL%20Server&logoColor=white)
 
 ## Testing
 
-![Playwright](https://img.shields.io/badge/Playwright-%20-%231e1e1e?logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%20-%231e1e1e?logo=Playwright&logoColor=white)
 
 ## Data
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?logo=Pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%23013243?logo=Numpy&logoColor=white)
 
 # 📊GitHub Stats :
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=EzequielTartaglia&theme=radical&hide_border=false) 
