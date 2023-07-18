@@ -22,7 +22,7 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ## Back-End
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=Node.js&logoColor=white) ![C#](https://img.shields.io/badge/CSharp-%2300f?logo=CSharp&logoColor=white) ![Php](https://img.shields.io/badge/Php-%23563D7C?logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-6DA55F?logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=Node.js&logoColor=white) ![C#](https://img.shields.io/badge/CSharp-%2300f?logo=CSharp&logoColor=white) ![Php](https://img.shields.io/badge/Php-%23563D7C?logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-6DA55F?logo=flask&logoColor=black)
 
 ## DataBase
 
