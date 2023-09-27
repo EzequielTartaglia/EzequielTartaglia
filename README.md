@@ -30,7 +30,7 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ## ORM
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?logo=Ruby-on-Rails&logoColor=white) ![Cake PHP](https://img.shields.io/badge/Cake%20PHP-grey?logo=cakephp&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?logo=Ruby-on-Rails&logoColor=white) ![Cake PHP](https://img.shields.io/badge/Cake%20PHP-%23563D7C?logo=cakephp&logoColor=white)
 
 ## Testing
 
