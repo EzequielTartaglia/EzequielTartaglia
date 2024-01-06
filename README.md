@@ -26,7 +26,7 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ## DataBase
 
-![MySQL](https://img.shields.io/badge/Mysql-%2300f?logo=Mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-grey?logo=Microsoft%20SQL%20Server&logoColor=white) ![Postgree](https://img.shields.io/badge/Postgree-grey?logo=Postgree&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-%2300f?logo=Mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-grey?logo=Microsoft%20SQL%20Server&logoColor=white) ![Postgre](https://img.shields.io/badge/Postgre-grey?logo=Postgre&logoColor=white)
 
 ## ORM
 
