@@ -44,6 +44,9 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?logo=Pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%23013243?logo=Numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23323330?logo=Jupyter&logoColor=%23E34F26) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23323330?logo=Google%20Colab&logoColor=%23E34F26)
 
+#IA
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-API-%233367FF)](https://openai.com)
 
 # 📊GitHub Stats :
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=EzequielTartaglia&theme=radical&hide_border=false) 
