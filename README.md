@@ -42,7 +42,7 @@ I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Scie
 
 ## Data
 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?logo=Pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%23013243?logo=Numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23323330?logo=Jupyter&logoColor=%23E34F26) ![Google Collab](https://img.shields.io/badge/collab-%23323330?logo=collab&logoColor=%23E34F26)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?logo=Pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%23013243?logo=Numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23323330?logo=Jupyter&logoColor=%23E34F26) ![Google Collab](https://img.shields.io/badge/Google%20collab-%23323330?logo=Google%20collab&logoColor=%23E34F26)
 
 # 📊GitHub Stats :
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=EzequielTartaglia&theme=radical&hide_border=false) 
