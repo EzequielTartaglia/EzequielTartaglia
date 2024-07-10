@@ -32,7 +32,7 @@ Associated of Applied Science in Computer Sciences - Brigham Young University Id
 
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f?logo=Mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-grey?logo=Microsoft%20SQL%20Server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230769AD?logo=PostgreSQL&logoColor=white) ![PL/pgSQL](https://img.shields.io/badge/PL/pgSQL-%230769AD?logo=PostgreSQL&logoColor=white) 
  
-![Oracle (SQL*Plus)](https://img.shields.io/badge/Oracle(SQL*Plus)-grey?logo=Oracle&logoColor=red) ![Supabase](https://img.shields.io/badge/supabase-%230769AD?logo=supabase&logoColor=white) 
+![Oracle (SQL*Plus)](https://img.shields.io/badge/Oracle(SQL*Plus)-grey?logo=Oracle&logoColor=red) ![Supabase](https://img.shields.io/badge/supabase-%black?logo=supabase&logoColor=6DA55F) 
 
 
 
