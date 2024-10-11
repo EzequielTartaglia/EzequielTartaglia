@@ -50,7 +50,7 @@ Associated of Applied Science in Computer Sciences - Brigham Young University Id
 
 ## Modelos de Inteligencia Artificial
 
-![OpenAI](https://img.shields.io/badge/OpenAI-%23000000?logo=openai&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-%23000000?logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000?logo=openai&logoColor=6DA55F) ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-%23000000?logo=google&logoColor=white)
 
 # 📊GitHub Stats :
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=EzequielTartaglia&theme=radical&hide_border=false) 
