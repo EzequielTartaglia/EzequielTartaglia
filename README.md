@@ -26,7 +26,7 @@ Associated of Applied Science in Computer Sciences - Brigham Young University Id
 
 ## Back-End
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=Node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-%2320232a?logo=express&logoColor=green) ![C#](https://img.shields.io/badge/CSharp-%2300f?logo=CSharp&logoColor=white) ![Php](https://img.shields.io/badge/Php-%23563D7C?logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-6DA55F?logo=flask&logoColor=black) ![Ruby](https://img.shields.io/badge/Ruby-%23CC0000?logo=Ruby&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=Node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-%2320232a?logo=express&logoColor=6DA55F) ![C#](https://img.shields.io/badge/CSharp-%2300f?logo=CSharp&logoColor=white) ![Php](https://img.shields.io/badge/Php-%23563D7C?logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-6DA55F?logo=flask&logoColor=black) ![Ruby](https://img.shields.io/badge/Ruby-%23CC0000?logo=Ruby&logoColor=white) 
 
 ## DataBase
 
