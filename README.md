@@ -34,8 +34,6 @@ Associated of Applied Science in Computer Sciences - Brigham Young University Id
  
 ![Oracle (SQL*Plus)](https://img.shields.io/badge/Oracle(SQL*Plus)-grey?logo=Oracle&logoColor=red) ![Supabase](https://img.shields.io/badge/supabase-%2320232a?logo=supabase&logoColor=6DA55F) 
 
-
-
 ## ORM
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?logo=Ruby-on-Rails&logoColor=white) ![Cake PHP](https://img.shields.io/badge/Cake%20PHP-%23563D7C?logo=cakephp&logoColor=white)
@@ -50,7 +48,7 @@ Associated of Applied Science in Computer Sciences - Brigham Young University Id
 
 ## Modelos de Inteligencia Artificial
 
-![OpenAI](https://img.shields.io/badge/OpenAI-%23000000?logo=openai&logoColor=6DA55F) ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-%23000000?logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%2320232a?logo=openai&logoColor=6DA55F) ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-%2320232a?logo=google&logoColor=white)
 
 # 📊GitHub Stats :
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=EzequielTartaglia&theme=radical&hide_border=false) 
