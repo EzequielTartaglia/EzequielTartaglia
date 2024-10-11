@@ -34,6 +34,13 @@ Associated of Applied Science in Computer Sciences - Brigham Young University Id
  
 ![Oracle (SQL*Plus)](https://img.shields.io/badge/Oracle(SQL*Plus)-grey?logo=Oracle&logoColor=red) ![Supabase](https://img.shields.io/badge/supabase-%2320232a?logo=supabase&logoColor=6DA55F) 
 
+## Hosting
+
+![Supabase](https://img.shields.io/badge/supabase-%2320232a?logo=supabase&logoColor=6DA55F) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000?logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7?logo=netlify&logoColor=white)
+
+
 ## ORM
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?logo=Ruby-on-Rails&logoColor=white) ![Cake PHP](https://img.shields.io/badge/Cake%20PHP-%23563D7C?logo=cakephp&logoColor=white)
