@@ -29,7 +29,7 @@ Associated of Applied Science in Computer Sciences - Brigham Young University Id
 
 ## Hosting
 
-![Netlify](https://img.shields.io/badge/netlify-%2300C7B7?logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2300B9F1?logo=Render&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-%2320232a?logo=supabase&logoColor=6DA55F) ![Vercel](https://img.shields.io/badge/vercel-%2320232a?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2300B9F1?logo=Render&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-%2320232a?logo=supabase&logoColor=6DA55F) ![Vercel](https://img.shields.io/badge/Vercel-%2320232a?logo=vercel&logoColor=white)
 
 ## ORM
 
