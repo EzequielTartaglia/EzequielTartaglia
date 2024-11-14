@@ -50,6 +50,7 @@ Associated of Applied Science in Computer Sciences - Brigham Young University Id
 
 # 📊GitHub Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EzequielTartaglia&show_icons=true&count_private=true&theme=radical&hide_border=false)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EzequielTartaglia&theme=radical&hide_border=false)
 
 ![CommonLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielTartaglia&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
