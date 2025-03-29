@@ -43,7 +43,6 @@ Associated of Applied Science in Computer Sciences - Brigham Young University Id
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23323330?logo=Google%20Colab&logoColor=%23E34F26) ![Jupyter](https://img.shields.io/badge/Jupyter-%23323330?logo=Jupyter&logoColor=%23E34F26) ![NumPy](https://img.shields.io/badge/Numpy-%23013243?logo=Numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458?logo=Pandas&logoColor=white)
 
-
 ## Modelos de Inteligencia Artificial
 
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-%2320232a?logo=google&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%2320232a?logo=openai&logoColor=6DA55F)
