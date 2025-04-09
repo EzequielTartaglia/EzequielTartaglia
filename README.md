@@ -4,7 +4,6 @@ I'm Ezequiel Matias Tartaglia and welcome to my GitHub's profile.
 
 I'm a passionate Full Stack Developer from Argentina. I'm studying Computer Science and Artificial Intelligence.
 
-
 ## 📜Important Certifications
 
 Associated of Applied Science in Computer Sciences - Brigham Young University Idaho
